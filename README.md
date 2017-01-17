@@ -4,3 +4,4 @@ Edit:
 Test!
 Send from PC:
 Whatcha doing!
+Okay legoo!
